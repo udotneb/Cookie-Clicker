@@ -97,8 +97,6 @@ class ViewController: UIViewController {
         animateTouch(x: tap2.x, y: tap2.y)
         animateTouch(x: tap3.x, y: tap3.y)
     }
-    
-    
 }
 
 

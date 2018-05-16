@@ -21,7 +21,7 @@ class HomeViewController: UIViewController {
     }
     
     @IBAction func continuePress(_ sender: Any) {
-        performSegue(withIdentifier: "HomeToCookie", sender: nil)
+        performSegue(withIdentifier: "HomeToCookie", sender: self)
     }
     
     
